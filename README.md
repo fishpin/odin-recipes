@@ -1,1 +1,2 @@
-# Write a piece about what the project is and what skills you have demonstrated once you are finished.
+# This is a project I made following the HTML portion of the Odin Project's foundational course.
+# I used this as an opportunity to get used to writing effective commit messages and memorize the basic HTML boilerplate.
